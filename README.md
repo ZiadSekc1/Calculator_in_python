@@ -15,7 +15,7 @@ Make sure you have Python installed on your system. You can download Python from
 3. Run the following command to execute the calculator:
 
    ```bash
-   python calculator.py
+   python calc.py
 The calculator GUI will open, allowing you to perform basic arithmetic operations.
 Features
 Addition, subtraction, multiplication, and division operations.
